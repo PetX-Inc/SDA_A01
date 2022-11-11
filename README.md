@@ -3,7 +3,7 @@ This repository is made to efficiently manage all members' contribution.
 Since we are not familiar with all operations of google docs, it will be better to work with MS Word. 
 Hence this repository will keep all of us on the same page.
 
-#Document Outline
+# Document Outline
 - Abstract
 - Introduction
 - SDLC at a glance
