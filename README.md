@@ -31,4 +31,4 @@ Saleh_ref#1: --SomeUrlHere--
 Saleh_ref#2: --SomeUrlHere--  
 Saad_ref#1: --SomeUrlHere--   
 Saad_ref#1: --SomeUrlHere--  
-** *Has_ref#1: --SomeUrlHere--* ** // My ref to paragraph added.  
+**Has_ref#1: --SomeUrlHere--** // My ref to paragraph added.  
